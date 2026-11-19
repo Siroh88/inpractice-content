@@ -6,5 +6,10 @@
    "f": "pnl28.bin",
    "h": "9d2667535c494495"
   }
- ]
+ ],
+ "ispirazioni": {
+  "v": 1,
+  "f": "ispirazioni.json",
+  "h": "9b83c4c6afcfe68b"
+ }
 }
