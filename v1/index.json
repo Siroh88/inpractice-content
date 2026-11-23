@@ -5,11 +5,17 @@
    "v": 2,
    "f": "pnl28.bin",
    "h": "9d2667535c494495"
+  },
+  {
+   "id": "respira21",
+   "v": 1,
+   "f": "respira21.bin",
+   "h": "0158d201748aec50"
   }
  ],
  "ispirazioni": {
-  "v": 1,
+  "v": 2,
   "f": "ispirazioni.json",
-  "h": "9b83c4c6afcfe68b"
+  "h": "73938f593df1f1e0"
  }
 }
